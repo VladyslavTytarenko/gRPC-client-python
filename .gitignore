@@ -36,3 +36,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Target py files ###
+greeting_service_pb2.py
+greeting_service_pb2_grpc.py
